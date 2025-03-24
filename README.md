@@ -1,4 +1,4 @@
-## This program was made using ChatGPT prompts. I will not take credit for it, but this saved me probably a couple days worth of Ctrl+F and replace all.
+##### This program was made using ChatGPT prompts. I will not take credit for it, but this saved me probably a couple days worth of Ctrl+F and replace all.
 # Mass variable renaming for Studio 5000 L5K files
 ## Purpose:
 ### Migrating antiquated RsLogix 500 code to Studio 5000 takes forever because of the switch from direct addressing to tag-based addressing. If you want code that is readable in the future, you might want to consider changing your variable names to something meaningful (instead of "B3[0].5" or something). 
